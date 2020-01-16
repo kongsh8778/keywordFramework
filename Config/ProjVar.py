@@ -16,7 +16,7 @@ success_picture_path = os.path.join(proj_path, "Report", "CapturePics", "pass")
 # 测试log所在的路径
 log_file_path = os.path.join(proj_path, "Report", "Log")
 # 测试报告所在的路径
-test_report_path = os.path.join(proj_path, "Report", "TestReport")
+test_report_path = os.path.join(proj_path, "Report")
 # 日志配置文件路径
 conf_path = os.path.join(proj_path, "Config", "Logger.conf")
 # 邮件配置文件路径
